@@ -1,2 +1,2 @@
 # Project-Four
-PSD to HTML &amp; CSS
+PSD to HTML &amp; CSS / Responsive
