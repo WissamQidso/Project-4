@@ -1,6 +1,26 @@
 body {
     margin: 0;
-    font-family: 'monospace';
+    font-family: 'Myriad Pro Regular';
+}
+
+@font-face {
+    font-family: 'Myriad Pro Regular';
+    src: url(../Fonts-Package/Myriad Pro Regular.ttf)
+}
+
+@font-face {
+    font-family: 'Brush Script Std Medium';
+    src: url(../Fonts-Package/Brush Script Std Medium.ttf)
+}
+
+@font-face {
+    font-family: 'Maiandra GD Regular';
+    src: url(../Fonts-Package/Maiandra GD Regular.ttf)
+}
+
+@font-face {
+    font-family: 'Forte Regular';
+    src: url(../Fonts-Package/Forte Regular.ttf)
 }
 
 .wrapper {
@@ -258,7 +278,7 @@ footer a {
 }
 
 footer strong {
-    font-family: 'Forte';
+    font-family: 'Forte Regular';
     color: #fff;
     font-weight: normal;
     padding-left: 0.2vw;
