@@ -1,41 +1,41 @@
 body {
     margin: 0;
-    font-family: 'Myriad Pro Regular';
+    font-family: 'myriad';
 }
 
 @font-face {
     font-family: 'myriad';
-    src: url('fonts-package/myriad.woff2') format('woff2'),
-         url('fonts-package/myriad.woff') format('woff1'),
-         url('fonts-package/myriad.ttf') format('truetype');
+    src: url('../fonts-package/myriad.woff2') format('woff2'),
+         url('../fonts-package/myriad.woff') format('woff1'),
+         url('../fonts-package/myriad.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'brush';
-    src: url('fonts-package/brush.woff2') format('woff2'),
-         url('fonts-package/brush.woff') format('woff'),
-         url('fonts-package/brush.ttf') format('truetype');
+    src: url('../fonts-package/brush.woff2') format('woff2'),
+         url('../fonts-package/brush.woff') format('woff'),
+         url('../fonts-package/brush.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'calibri';
-    src: url('fonts-package/calibri.woff2') format('woff2'),
-         url('fonts-package/calibri.woff') format('woff'),
-         url('fonts-package/calibri.ttf') format('truetype');
+    src: url('../fonts-package/calibri.woff2') format('woff2'),
+         url('../fonts-package/calibri.woff') format('woff'),
+         url('../fonts-package/calibri.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'forte';
-    src: url('fonts-package/forte.woff2') format('woff2'),
-         url('fonts-package/forte.woff') format('woff'),
-         url('fonts-package/forte.ttf') format('truetype'); 
+    src: url('../fonts-package/forte.woff2') format('woff2'),
+         url('../fonts-package/forte.woff') format('woff'),
+         url('../fonts-package/forte.ttf') format('truetype'); 
 }
 
 @font-face {
     font-family: 'maiandra';
-    src: url('fonts-package/maiandra.woff2') format('woff2'),
-         url('fonts-package/maiandra.woff') format('woff'),
-         url('fonts-package/maiandra.ttf') format('truetype'); 
+    src: url('../fonts-package/maiandra.woff2') format('woff2'),
+         url('../fonts-package/maiandra.woff') format('woff'),
+         url('../fonts-package/maiandra.ttf') format('truetype'); 
 }
  
 .wrapper {
@@ -293,7 +293,7 @@ footer a {
 }
 
 footer strong {
-    font-family: 'Forte Regular';
+    font-family: 'forte';
     color: #fff;
     font-weight: normal;
     padding-left: 0.2vw;
